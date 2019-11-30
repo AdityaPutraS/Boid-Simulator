@@ -210,6 +210,6 @@ void draw()
     bo.applyForce(sumForce);
   }
   stroke(0, 0, 0);
-  //drawWindMap();
+  drawWindMap();
   drawBoid();
 }
